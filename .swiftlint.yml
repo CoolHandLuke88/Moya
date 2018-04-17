@@ -3,6 +3,7 @@ disabled_rules:
   - type_name
   - cyclomatic_complexity
   - variable_name
+  - identifier_name
 opt_in_rules:
   - empty_count
   - force_unwrapping
